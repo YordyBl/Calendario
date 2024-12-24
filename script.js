@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const audioPlayer = document.createElement("audio");
   audioPlayer.id = "audio-player";
-  audioPlayer.src = "./sound/led.mp3";
+  audioPlayer.src = "./sound/jb.mp3";
   audioPlayer.autoplay = true;
   audioPlayer.loop = true;
   audioPlayer.preload = "auto";
