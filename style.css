@@ -1,13 +1,13 @@
-
+/* 
 body {
     background-image: url('./img/background.png');  
-    background-size: cover;  /* Hace que la imagen cubra toda la pantalla */
-    background-position: center center;  /* Centra la imagen */
-    background-attachment: fixed;  /* Hace que la imagen se quede fija mientras se hace scroll */
+    background-size: cover;  
+    background-position: center center;
+    background-attachment: fixed;  
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-} 
+}  */
 
 .puertas-adviento {
     display: grid;
