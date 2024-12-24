@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('./img/background.png');  /* Reemplaza con la URL de tu imagen */
+    background-image: url('./img/background.png');  
     background-size: cover;  /* Hace que la imagen cubra toda la pantalla */
     background-position: center center;  /* Centra la imagen */
     background-attachment: fixed;  /* Hace que la imagen se quede fija mientras se hace scroll */
