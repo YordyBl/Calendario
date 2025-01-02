@@ -44,13 +44,13 @@ document.addEventListener("DOMContentLoaded", function () {
     // 17: { disponible: "URL REGALO", noDisponible: "URL NO DISPONIBLE" },
     // 18: { disponible: "URL REGALO", noDisponible: "URL NO DISPONIBLE" },
     // 19: { disponible: "URL REGALO", noDisponible: "URL NO DISPONIBLE" },
-    25: { disponible: "./img/regalo/1.gif", noDisponible: "./img/regalo/0.gif" },
-    26: { disponible: "./img/regalo/2.gif", noDisponible: "./img/regalo/0.gif" },
-    27: { disponible: "./img/regalo/5.gif", noDisponible: "./img/regalo/0.gif" },
-    28: { disponible: "./img/regalo/3.gif", noDisponible: "./img/regalo/0.gif" },
-    29: { disponible: "./img/regalo/4.gif", noDisponible: "./img/regalo/0.gif" },
-    30: {disponible: "./img/regalo/6.gif", noDisponible: "./img/regalo/0.gif"},
-    31: {disponible: "./img/regalo/7.gif", noDisponible: "./img/regalo/0.gif" }
+    25: { disponible: "./img/regalo/1.gif", noDisponible: "./img/regalo/1.gif" },
+    26: { disponible: "./img/regalo/2.gif", noDisponible: "./img/regalo/2.gif" },
+    27: { disponible: "./img/regalo/5.gif", noDisponible: "./img/regalo/5.gif" },
+    28: { disponible: "./img/regalo/3.gif", noDisponible: "./img/regalo/3.gif" },
+    29: { disponible: "./img/regalo/4.gif", noDisponible: "./img/regalo/4.gif" },
+    30: {disponible: "./img/regalo/6.gif", noDisponible: "./img/regalo/6.gif"},
+    31: {disponible: "./img/regalo/7.gif", noDisponible: "./img/regalo/7.gif" }
   };
 
   const modal = document.getElementById("modal-regalo");
